@@ -1,0 +1,10 @@
+openai
+requests
+beautifulsoup4
+PyYAML
+pandas
+tqdm
+python-dateutil
+PyPDF2
+langdetect
+PyMuPDF

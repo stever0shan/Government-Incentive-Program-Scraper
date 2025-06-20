@@ -1,0 +1,2039 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+<head>
+  <meta charset="utf-8" />
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GS1KB7R8DY"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "G-GS1KB7R8DY", {"groups":"default","page_placeholder":"PLACEHOLDER_page_location","allow_ad_personalization_signals":false});gtag("config", "UA-17192165-1", {"groups":"default","anonymize_ip":true,"page_placeholder":"PLACEHOLDER_page_path","allow_ad_personalization_signals":false});gtag("config", "G-MFMY1F6D3V", {"groups":"default","page_placeholder":"PLACEHOLDER_page_location","allow_ad_personalization_signals":false});</script>
+<meta name="description" content="View the Department&#039;s most recent budget request to Congress and other financial performance documents." />
+<link rel="canonical" href="https://www.energy.gov/budget-performance" />
+<link rel="shortlink" href="https://www.energy.gov/node/268189" />
+<meta name="generator" content="Drupal 8 (http://drupal.org)" />
+<link rel="image_src" href="https://www.energy.gov/sites/default/files/2025-04/white-fallback_0.png" />
+<meta property="og:site_name" content="Energy.gov" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.energy.gov/budget-performance" />
+<meta property="og:title" content="Budget &amp; Performance" />
+<meta property="og:description" content="View the Department&#039;s most recent budget request to Congress and other financial performance documents." />
+<meta property="og:image" content="https://www.energy.gov/sites/default/files/2025-04/white-fallback_0.png" />
+<meta property="og:image:url" content="https://www.energy.gov/sites/default/files/2025-04/white-fallback_0.png" />
+<meta property="og:image:type" content="image/png" />
+<meta property="og:image:alt" content="Energy.gov Search Default Thumbnail" />
+<meta property="og:street_address" content="1000 Independence Ave. SW" />
+<meta property="og:locality" content="Washington D.C." />
+<meta property="og:postal_code" content="20585" />
+<meta property="og:country_name" content="USA" />
+<meta property="og:phone_number" content="202-586-5000" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="View the Department&#039;s most recent budget request to Congress and other financial performance documents." />
+<meta name="twitter:site" content="@ENERGY" />
+<meta name="twitter:title" content="Budget &amp; Performance" />
+<meta name="twitter:url" content="https://www.energy.gov/budget-performance" />
+<meta name="twitter:image" content="https://www.energy.gov/sites/default/files/2025-04/white-fallback_0.png" />
+<meta name="twitter:image:alt" content="Energy.gov Search Default Thumbnail" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<style>.page-hero, .topic-banner-wrapper .hero { background-image: linear-gradient(180deg, transparent 33%, rgba(41, 41, 41, .7)), url(https://www.energy.gov/) !important } .page-title { color: #ffffff !important }</style>
+<link rel="icon" href="/themes/custom/energy_gov/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="en" href="https://www.energy.gov/budget-performance" />
+<script src="/sites/default/files/google_tag/eere.energy.gov/google_tag.script.js?sy5n4w" defer></script>
+<script src="/sites/default/files/google_tag/energygov/google_tag.script.js?sy5n4w" defer></script>
+
+  <title>Budget &amp; Performance | Department of Energy</title>
+  <link rel="stylesheet" media="all" href="/sites/default/files/css/css_Py-W_d9ieeA0iSxE3ACJAJMMOKRHnhulLEQM4tQ4khc.css?delta=0&amp;language=en&amp;theme=energy_gov&amp;include=eJxtjFEOwyAMQy-EypGqFCwaLSMogW7cfpo0tH3sz_azXlJDzDYayZaZREtAhZW5pzf5ycGnd9zjQY71KXpFckf3gGcXrrfl-tQgNHX0PbMnvWAzakVSWYIPPgZLhsW_a2hkVIza6cv-XbZR2ziE_UQOzh0PzthJYD1y5f4C6xhZCA" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_CZQAuVysJ6GmdoexiK6kRqukdX3_aKzzFP3iIJwMY34.css?delta=1&amp;language=en&amp;theme=energy_gov&amp;include=eJxtjFEOwyAMQy-EypGqFCwaLSMogW7cfpo0tH3sz_azXlJDzDYayZaZREtAhZW5pzf5ycGnd9zjQY71KXpFckf3gGcXrrfl-tQgNHX0PbMnvWAzakVSWYIPPgZLhsW_a2hkVIza6cv-XbZR2ziE_UQOzh0PzthJYD1y5f4C6xhZCA" />
+
+  
+  <!-- Font Awesome include all.js. Need to include sharp family separately. -->
+  <script defer src="/themes/custom/energy_gov/js/fontawesome/all.js"></script>
+  <script defer src="/themes/custom/energy_gov/js/fontawesome/sharp-solid.js"></script>
+  <script defer src="/themes/custom/energy_gov/js/fontawesome/sharp-regular.js"></script>
+  <script defer src="/themes/custom/energy_gov/js/fontawesome/sharp-light.js"></script>
+  <script defer src="/themes/custom/energy_gov/js/fontawesome/sharp-thin.js"></script>
+  <script defer src="/themes/custom/energy_gov/js/fontawesome/sharp-duotone-solid.js"></script>
+  <script defer src="/themes/custom/energy_gov/js/fontawesome/sharp-duotone-regular.js"></script>
+  <script defer src="/themes/custom/energy_gov/js/fontawesome/sharp-duotone-light.js"></script>
+  <script defer src="/themes/custom/energy_gov/js/fontawesome/sharp-duotone-thin.js"></script>
+  <script defer src="/themes/custom/energy_gov/js/fontawesome/fontawesome.js"></script>
+</head>
+<body>
+<div id="skip-link-container">
+  <a href="#main-content" class="visually-hidden focusable skip-link">
+    Skip to main content
+  </a>
+</div>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZQX9F4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PCSS9JS&gtm_auth=rQjC8QLyy7zCI51ldZjEbA&gtm_preview=env-3&gtm_cookies_win=x" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+      <section id="usa-govt-website-banner" class="usa-banner" aria-label="Official website of the United States government">
+      
+<div class="usa-banner">
+  <div class="usa-accordion">
+    <header class="usa-banner__header">
+      <div class="usa-banner__inner">
+        <div class="grid-col-auto">
+          <img class="usa-banner__header-flag" aria-hidden="true" src="/themes/custom/energy_gov/assets/img/us_flag_small.png" alt="">
+        </div>
+        <div class="grid-col-fill tablet:grid-col-auto" aria-hidden="true">
+          <p class="usa-banner__header-text">An official website of the United States government</p>
+          <p class="usa-banner__header-action" aria-hidden="true">Here's how you know</p>
+        </div>
+        <button type="button" class="usa-accordion__button usa-banner__button" aria-expanded="false" aria-controls="gov-banner">
+          <span class="usa-banner__button-text">Here's how you know</span>
+        </button>
+      </div>
+    </header>
+    <div class="usa-banner__content usa-accordion__content" id="gov-banner" hidden="">
+      <div class="grid-row grid-gap-lg">
+        <div class="usa-banner__guidance tablet:grid-col-6">
+          <img class="usa-banner__icon usa-media-block__img" src="/themes/custom/energy_gov/assets/img/icon-dot-gov.svg" alt="Dot gov">
+          <div class="usa-media-block__body">
+            <p>
+              <strong>Official websites use .gov</strong>
+              <br>
+              A <strong>.gov</strong> website belongs to an official government organization in the United States.
+            </p>
+          </div>
+        </div>
+        <div class="usa-banner__guidance tablet:grid-col-6">
+          <img class="usa-banner__icon usa-media-block__img" src="/themes/custom/energy_gov/assets/img/icon-https.svg" alt="Https">
+          <div class="usa-media-block__body">
+            <p>
+              <strong>Secure .gov websites use HTTPS</strong>
+              <br>
+              A <strong>lock</strong> (   <span class="icon-lock">
+    <svg xmlns="http://www.w3.org/2000/svg" width="52" height="64" viewBox="0 0 52 64" class="usa-banner__lock-image" role="img" aria-labelledby="banner-lock-description" focusable="false">
+      <title id="banner-lock-title">Lock</title>
+      <desc id="banner-lock-description">Locked padlock</desc>
+      <path fill="#000000" fill-rule="evenodd" d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z"/>
+    </svg>
+  </span>
+ ) or <strong>https://</strong> means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    </section>
+  
+<div class="usa-overlay"></div>
+
+  <header class="usa-header usa-header--extended usa-header--extended-megamenu" id="header" role="banner">
+
+    <div id="header-container">
+    
+    
+      <div class="region region-header usa-navbar">
+      
+<button id="megamenu-hamburger-btn" class="usa-menu-btn megamenu-mobile-btn" type="button" aria-label="Main Menu"></button>
+
+  <div class="usa-logo site-logo" id="logo">
+
+    <em class="usa-logo__text">
+          <a class="logo-img" href="/" accesskey="1" title="Home" aria-label="Home">
+        <img src="/themes/custom/energy_gov/img/logo-image.png" alt="Home" />
+      </a>
+    
+    
+        </em>
+
+  </div>
+
+  <div id="search-btn-container-mobile" class="usa-accordion search-mobile">
+    <button type="button" id="megamenu-search-btn-mobile" class="search usa-accordion__button usa-current" aria-expanded="false" aria-controls="search-nav" aria-label="search"></button>
+
+    <div id="search-nav-mobile" class="usa-nav__submenu search-nav-mobile-class" hidden>
+      <section aria-label="Search form">
+        <div class="energy-global-search-mobile"></div>
+      </section>
+    </div>
+  </div>
+
+
+</div>
+
+
+      <nav class="usa-nav" role="navigation">
+                <div class="usa-nav__inner">
+          
+          
+          
+          
+                            
+        
+        
+  
+            <ul id="main-megamenu" class="usa-nav__primary usa-accordion">
+    
+                        
+                    
+      
+              <li class="usa-nav__primary-item">
+      
+                      <button type="button" class="usa-accordion__button primary-btn " aria-expanded="false" aria-controls="extended-mega-nav-section-1-1-1">
+          <span>About</span>
+        </button>
+
+      
+                
+        
+        
+  
+            <ul id="extended-mega-nav-section-1-1-1" class="usa-nav__submenu usa-megamenu usa-accordion" hidden="">
+        <li class="mobile-back-btn-secondary-wrapper">
+          <button type="button" class="mobile-back-btn-secondary">
+            <span>About</span>
+          </button>
+        </li>
+      
+    
+                        
+                    
+      
+                      <li>
+
+                  <div class="usa-nav__submenu-item">
+            <button type="button" class="usa-accordion__button " aria-expanded="false" aria-controls="basic-nav-section-1-2-1">
+              <span>Our Agency</span>
+            </button>
+          </div>
+              
+      
+                
+        
+        
+  
+            <ul id="basic-nav-section-1-2-1" class="usa-nav__submenu" hidden="">
+
+        <li class="mobile-back-btn-tertiary-wrapper">
+          <button type="button" class="mobile-back-btn-tertiary">
+            <span>Our Agency</span>
+          </button>
+        </li>
+
+          
+                        
+                    
+      
+              <li class="usa-nav__submenu-item">
+      
+      
+              
+        
+                        <a href="/lm/history" class="link" data-drupal-link-system-path="node/4847006">          <span>History </span>
+                            </a>
+                
+              
+              </li>
+      
+                        
+                    
+      
+              <li class="usa-nav__submenu-item">
+      
+      
+              
+        
+                        <a href="/our-leadership-offices" class="link" data-drupal-link-system-path="node/4847008">          <span>Our Leadership &amp; Offices</span>
+                            </a>
+                
+              
+              </li>
+      
+                        
+                    
+      
+              <li class="usa-nav__submenu-item">
+      
+      
+              
+        
+                        <a href="/nnsa/national-nuclear-security-administration" class="link" data-drupal-link-system-path="node/4846918">          <span>The National Nuclear Security Administration</span>
+                            </a>
+                
+              
+              </li>
+      
+                        
+                    
+      
+              <li class="usa-nav__submenu-item">
+      
+      
+              
+        
+                        <a href="/us-energy-information-administration-eia" class="link" data-drupal-link-system-path="node/4846910">          <span>The Energy Information Administration</span>
+                            </a>
+                
+              
+              </li>
+      
+                        
+                    
+      
+              <li class="usa-nav__submenu-item">
+      
+      
+              
+        
+                        <a href="/us-department-energy-national-laboratories" class="link" data-drupal-link-system-path="node/4846909">          <span>National Laboratories</span>
+                            </a>
+                
+              
+              </li>
+      
+                        
+                    
+      
+              <li class="usa-nav__submenu-item">
+      
+      
+              
+        
+                        <a href="/power-marketing-administrations" class="link" data-drupal-link-system-path="node/4846919">          <span>Power Marketing Administrations</span>
+                            </a>
+                
+              
+              </li>
+      
+    
+          </ul>
+
+                  
+
+      
+              </li>
+      
+                        
+                    
+      
+                      <li>
+
+                  <div class="usa-nav__submenu-item">
+            <button type="button" class="usa-accordion__button " aria-expanded="false" aria-controls="basic-nav-section-1-2-2">
+              <span>Our Outreach</span>
+            </button>
+          </div>
+              
+      
+                
+        
+        
+  
+            <ul id="basic-nav-section-1-2-2" class="usa-nav__submenu" hidden="">
+
+        <li class="mobile-back-btn-tertiary-wrapper">
+          <button type="button" class="mobile-back-btn-tertiary">
+            <span>Our Outreach</span>
+          </button>
+        </li>
+
+          
+                        
+                    
+      
+              <li class="usa-nav__submenu-item">
+      
+      
+              
+        
+                        <a href="/newsroom" class="link" data-drupal-link-system-path="node/4847098">          <span>Newsroom</span>
+                            </a>
+                
+              
+              </li>
+      
+                        
+                    
+      
+              <li class="usa-nav__submenu-item">
+      
+      
+              
+        
+                        <a href="/digital-engagement-and-media" class="link" data-drupal-link-system-path="node/4846997">          <span>Digital Engagement and Media</span>
+                            </a>
+                
+              
+              </li>
+      
+                        
+                    
+      
+              <li class="usa-nav__submenu-item">
+      
+      
+              
+        
+                        <a href="/design" class="link" data-drupal-link-system-path="node/4831064">          <span>Brand Guides</span>
+                            </a>
+                
+              
+              </li>
+      
+    
+          </ul>
+
+                  
+
+      
+              </li>
+      
+    
+          </ul>
+      
+
+      
+              </li>
+      
+                        
+                    
+      
+              <li class="usa-nav__primary-item">
+      
+                      <button type="button" class="usa-accordion__button primary-btn " aria-expanded="false" aria-controls="extended-mega-nav-section-2-1-2">
+          <span>Our Mission</span>
+        </button>
+
+      
+                
+        
+        
+  
+            <ul id="extended-mega-nav-section-2-1-2" class="usa-nav__submenu usa-megamenu usa-accordion" hidden="">
+        <li class="mobile-back-btn-secondary-wrapper">
+          <button type="button" class="mobile-back-btn-secondary">
+            <span>Our Mission</span>
+          </button>
+        </li>
+      
+    
+                        
+                    
+      
+                      <li>
+
+                  <div class="usa-nav__submenu-item">
+            <button type="button" class="usa-accordion__button " aria-expanded="false" aria-controls="basic-nav-section-2-2-1">
+              <span>Security &amp; Safety</span>
+            </button>
+          </div>
+              
+      
+                
+        
+        
+  
+            <ul id="basic-nav-section-2-2-1" class="usa-nav__submenu" hidden="">
+
+        <li class="mobile-back-btn-tertiary-wrapper">
+          <button type="button" class="mobile-back-btn-tertiary">
+            <span>Security &amp; Safety</span>
+          </button>
+        </li>
+
+          
+                        
+                    
+      
+              <li class="usa-nav__submenu-item">
+      
+      
+              
+        
+                        <a href="/topics/nuclear-security" class="link" data-drupal-link-system-path="node/4847066">          <span>Nuclear Security</span>
+                            </a>
+                
+              
+              </li>
+      
+                        
+                    
+      
+              <li class="usa-nav__submenu-item">
+      
+      
+              
+        
+                        <a href="/topics/energy-security" class="link" data-drupal-link-system-path="node/4847073">          <span>Energy Security</span>
+                            </a>
+                
+              
+              </li>
+      
+                        
+                    
+      
+              <li class="usa-nav__submenu-item">
+      
+      
+              
+        
+                        <a href="/topics/cybersecurity" class="link" data-drupal-link-system-path="node/4847042">          <span>Cybersecurity</span>
+                            </a>
+                
+              
+              </li>
+      
+                        
+                    
+      
+              <li class="usa-nav__submenu-item">
+      
+      
+              
+        
+                        <a href="/topics/environmental-and-legacy-management" class="link" data-drupal-link-system-path="node/4847080">          <span>Environmental &amp; Legacy Management</span>
+                            </a>
+                
+              
+              </li>
+      
+                        
+                    
+      
+              <li class="usa-nav__submenu-item">
+      
+      
+              
+        
+                        <a href="/topics/research-technology-and-economic-security" class="link" data-drupal-link-system-path="node/4847037">          <span>Research, Technology, &amp; Economic Security</span>
+                            </a>
+                
+              
+              </li>
+      
+                        
+                    
+      
+              <li class="usa-nav__submenu-item">
+      
+      
+              
+        
+                        <a href="/ceser/emergency-response-hub-0" class="link" data-drupal-link-system-path="node/4846993">          <span>Emergency Response</span>
+                            </a>
+                
+              
+              </li>
+      
+    
+          </ul>
+
+                  
+
+      
+              </li>
+      
+                        
+                    
+      
+                      <li>
+
+                  <div class="usa-nav__submenu-item">
+            <button type="button" class="usa-accordion__button " aria-expanded="false" aria-controls="basic-nav-section-2-2-2">
+              <span>Scientific Excellence</span>
+            </button>
+          </div>
+              
+      
+                
+        
+        
+  
+            <ul id="basic-nav-section-2-2-2" class="usa-nav__submenu" hidden="">
+
+        <li class="mobile-back-btn-tertiary-wrapper">
+          <button type="button" class="mobile-back-btn-tertiary">
+            <span>Scientific Excellence</span>
+          </button>
+        </li>
+
+          
+                        
+                    
+      
+              <li class="usa-nav__submenu-item">
+      
+      
+              
+        
+                        <a href="https://www.osti.gov/" class="link">          <span>Scientific Research Database (OSTI) </span>
+                            </a>
+                
+              
+              </li>
+      
+                        
+                    
+      
+              <li class="usa-nav__submenu-item">
+      
+      
+              
+        
+                        <a href="/science/department-energy-nobel-laureates" class="link" data-drupal-link-system-path="node/4846920">          <span>Nobel Prize Laureates</span>
+                            </a>
+                
+              
+              </li>
+      
+                        
+                    
+      
+              <li class="usa-nav__submenu-item">
+      
+      
+              
+        
+                        <a href="/topics/national-science-bowl" class="link" data-drupal-link-system-path="node/4847059">          <span>National Science Bowl</span>
+                            </a>
+                
+              
+              </li>
+      
+    
+          </ul>
+
+                  
+
+      
+              </li>
+      
+                        
+                    
+      
+                      <li>
+
+                  <div class="usa-nav__submenu-item">
+            <button type="button" class="usa-accordion__button " aria-expanded="false" aria-controls="basic-nav-section-2-2-3">
+              <span>Environment</span>
+            </button>
+          </div>
+              
+      
+                
+        
+        
+  
+            <ul id="basic-nav-section-2-2-3" class="usa-nav__submenu" hidden="">
+
+        <li class="mobile-back-btn-tertiary-wrapper">
+          <button type="button" class="mobile-back-btn-tertiary">
+            <span>Environment</span>
+          </button>
+        </li>
+
+          
+                        
+                    
+      
+              <li class="usa-nav__submenu-item">
+      
+      
+              
+        
+                        <a href="/topics/earth-systems-modeling" class="link" data-drupal-link-system-path="node/4847056">          <span>Earth Systems Modeling</span>
+                            </a>
+                
+              
+              </li>
+      
+                        
+                    
+      
+              <li class="usa-nav__submenu-item">
+      
+      
+              
+        
+                        <a href="/topics/extreme-weather-resiliency" class="link" data-drupal-link-system-path="node/4847094">          <span>Extreme Weather Resiliency</span>
+                            </a>
+                
+              
+              </li>
+      
+    
+          </ul>
+
+                  
+
+      
+              </li>
+      
+                        
+                    
+      
+                      <li>
+
+                  <div class="usa-nav__submenu-item">
+            <button type="button" class="usa-accordion__button " aria-expanded="false" aria-controls="basic-nav-section-2-2-4">
+              <span>Energy Access</span>
+            </button>
+          </div>
+              
+      
+                
+        
+        
+  
+            <ul id="basic-nav-section-2-2-4" class="usa-nav__submenu" hidden="">
+
+        <li class="mobile-back-btn-tertiary-wrapper">
+          <button type="button" class="mobile-back-btn-tertiary">
+            <span>Energy Access</span>
+          </button>
+        </li>
+
+          
+                        
+                    
+      
+              <li class="usa-nav__submenu-item">
+      
+      
+              
+        
+                        <a href="/topics/grid-deployment-and-transmission" class="link" data-drupal-link-system-path="node/4847031">          <span>Grid Deployment &amp; Transmission</span>
+                            </a>
+                
+              
+              </li>
+      
+                        
+                    
+      
+              <li class="usa-nav__submenu-item">
+      
+      
+              
+        
+                        <a href="/topics/puerto-rico-grid-resilience-and-modernization" class="link" data-drupal-link-system-path="node/4847071">          <span>Puerto Rico Grid Resilience &amp; Transitions (PR 100)</span>
+                            </a>
+                
+              
+              </li>
+      
+                        
+                    
+      
+              <li class="usa-nav__submenu-item">
+      
+      
+              
+        
+                        <a href="/topics/tribal-energy-access" class="link" data-drupal-link-system-path="node/4847044">          <span>Tribal Energy Access</span>
+                            </a>
+                
+              
+              </li>
+      
+    
+          </ul>
+
+                  
+
+      
+              </li>
+      
+                        
+                    
+      
+                      <li>
+
+                  <div class="usa-nav__submenu-item">
+            <button type="button" class="usa-accordion__button " aria-expanded="false" aria-controls="basic-nav-section-2-2-5">
+              <span>Economic Growth</span>
+            </button>
+          </div>
+              
+      
+                
+        
+        
+  
+            <ul id="basic-nav-section-2-2-5" class="usa-nav__submenu" hidden="">
+
+        <li class="mobile-back-btn-tertiary-wrapper">
+          <button type="button" class="mobile-back-btn-tertiary">
+            <span>Economic Growth</span>
+          </button>
+        </li>
+
+          
+                        
+                    
+      
+              <li class="usa-nav__submenu-item">
+      
+      
+              
+        
+                        <a href="/topics/energy-workforce" class="link" data-drupal-link-system-path="node/4847038">          <span>Energy Workforce</span>
+                            </a>
+                
+              
+              </li>
+      
+                        
+                    
+      
+              <li class="usa-nav__submenu-item">
+      
+      
+              
+        
+                        <a href="/topics/american-manufacturing" class="link" data-drupal-link-system-path="node/4847084">          <span>American Manufacturing</span>
+                            </a>
+                
+              
+              </li>
+      
+                        
+                    
+      
+              <li class="usa-nav__submenu-item">
+      
+      
+              
+        
+                        <a href="/topics/advancing-innovation-technology-transitions-and-early-investments" class="link" data-drupal-link-system-path="node/4847081">          <span>Technology Transitions &amp; Early Investments</span>
+                            </a>
+                
+              
+              </li>
+      
+                        
+                    
+      
+              <li class="usa-nav__submenu-item">
+      
+      
+              
+        
+                        <a href="/topics/commercial-implementation" class="link" data-drupal-link-system-path="node/4847063">          <span>Commercial Implementation</span>
+                            </a>
+                
+              
+              </li>
+      
+    
+          </ul>
+
+                  
+
+      
+              </li>
+      
+                        
+                    
+      
+                      <li>
+
+                  <div class="usa-nav__submenu-item">
+            <button type="button" class="usa-accordion__button " aria-expanded="false" aria-controls="basic-nav-section-2-2-6">
+              <span>Global Diplomacy &amp; Leadership</span>
+            </button>
+          </div>
+              
+      
+                
+        
+        
+  
+            <ul id="basic-nav-section-2-2-6" class="usa-nav__submenu" hidden="">
+
+        <li class="mobile-back-btn-tertiary-wrapper">
+          <button type="button" class="mobile-back-btn-tertiary">
+            <span>Global Diplomacy &amp; Leadership</span>
+          </button>
+        </li>
+
+          
+                        
+                    
+      
+              <li class="usa-nav__submenu-item">
+      
+      
+              
+        
+                        <a href="/topics/arctic-cooperation" class="link" data-drupal-link-system-path="node/4847090">          <span>Arctic Cooperation</span>
+                            </a>
+                
+              
+              </li>
+      
+                        
+                    
+      
+              <li class="usa-nav__submenu-item">
+      
+      
+              
+        
+                        <a href="/topics/international-market-development" class="link" data-drupal-link-system-path="node/4847048">          <span>International Market Development</span>
+                            </a>
+                
+              
+              </li>
+      
+    
+          </ul>
+
+                  
+
+      
+              </li>
+      
+    
+          </ul>
+      
+
+      
+              </li>
+      
+                        
+                    
+      
+              <li class="usa-nav__primary-item">
+      
+                      <button type="button" class="usa-accordion__button primary-btn " aria-expanded="false" aria-controls="extended-mega-nav-section-3-1-3">
+          <span>New Horizons</span>
+        </button>
+
+      
+                
+        
+        
+  
+            <ul id="extended-mega-nav-section-3-1-3" class="usa-nav__submenu usa-megamenu usa-accordion" hidden="">
+        <li class="mobile-back-btn-secondary-wrapper">
+          <button type="button" class="mobile-back-btn-secondary">
+            <span>New Horizons</span>
+          </button>
+        </li>
+      
+    
+                        
+                    
+      
+                      <li>
+
+              
+      
+                        <div class="usa-nav__submenu-item">
+        
+        
+                        <a href="/topics/fusion-energy" class="link" data-drupal-link-system-path="node/4846935">          <span>Fusion</span>
+                            </a>
+                
+                  </div>
+              
+              </li>
+      
+                        
+                    
+      
+                      <li>
+
+              
+      
+                        <div class="usa-nav__submenu-item">
+        
+        
+                        <a href="/topics/supercomputing" class="link" data-drupal-link-system-path="node/4846963">          <span>Supercomputing</span>
+                            </a>
+                
+                  </div>
+              
+              </li>
+      
+                        
+                    
+      
+                      <li>
+
+              
+      
+                        <div class="usa-nav__submenu-item">
+        
+        
+                        <a href="/topics/quantum-information-science" class="link" data-drupal-link-system-path="node/4846911">          <span>Quantum Science</span>
+                            </a>
+                
+                  </div>
+              
+              </li>
+      
+                        
+                    
+      
+                      <li>
+
+              
+      
+                        <div class="usa-nav__submenu-item">
+        
+        
+                        <a href="/topics/space-exploration-and-universe" class="link" data-drupal-link-system-path="node/4846915">          <span>Space Exploration &amp; The Universe</span>
+                            </a>
+                
+                  </div>
+              
+              </li>
+      
+                        
+                    
+      
+                      <li>
+
+              
+      
+                        <div class="usa-nav__submenu-item">
+        
+        
+                        <a href="/topics/cancer-research" class="link" data-drupal-link-system-path="node/4846916">          <span>Cancer Research</span>
+                            </a>
+                
+                  </div>
+              
+              </li>
+      
+                        
+                    
+      
+                      <li>
+
+              
+      
+                        <div class="usa-nav__submenu-item">
+        
+        
+                        <a href="/topics/biotechnology" class="link" data-drupal-link-system-path="node/4846917">          <span>Biotechnology</span>
+                            </a>
+                
+                  </div>
+              
+              </li>
+      
+                        
+                    
+      
+                      <li>
+
+              
+      
+                        <div class="usa-nav__submenu-item">
+        
+        
+                        <a href="/topics/artificial-intelligence" class="link" data-drupal-link-system-path="node/4847061">          <span>Artificial Intelligence</span>
+                            </a>
+                
+                  </div>
+              
+              </li>
+      
+    
+          </ul>
+      
+
+      
+              </li>
+      
+                        
+                    
+      
+              <li class="usa-nav__primary-item">
+      
+                      <button type="button" class="usa-accordion__button primary-btn " aria-expanded="false" aria-controls="extended-mega-nav-section-4-1-4">
+          <span>Topics</span>
+        </button>
+
+      
+                
+        
+        
+  
+            <ul id="extended-mega-nav-section-4-1-4" class="usa-nav__submenu usa-megamenu usa-accordion" hidden="">
+        <li class="mobile-back-btn-secondary-wrapper">
+          <button type="button" class="mobile-back-btn-secondary">
+            <span>Topics</span>
+          </button>
+        </li>
+      
+    
+                        
+                    
+      
+                      <li>
+
+              
+      
+                        <div class="usa-nav__submenu-item">
+        
+        
+                        <a href="/topics" class="link" data-drupal-link-system-path="topics">          <span>View All Topics</span>
+                            </a>
+                
+                  </div>
+              
+              </li>
+      
+    
+          </ul>
+      
+
+      
+              </li>
+      
+                        
+                    
+      
+              <li class="usa-nav__primary-item">
+      
+                      <button type="button" class="usa-accordion__button primary-btn " aria-expanded="false" aria-controls="extended-mega-nav-section-5-1-5">
+          <span>Consumer Savings</span>
+        </button>
+
+      
+                
+        
+        
+  
+            <ul id="extended-mega-nav-section-5-1-5" class="usa-nav__submenu usa-megamenu usa-accordion" hidden="">
+        <li class="mobile-back-btn-secondary-wrapper">
+          <button type="button" class="mobile-back-btn-secondary">
+            <span>Consumer Savings</span>
+          </button>
+        </li>
+      
+    
+                        
+                    
+      
+                      <li>
+
+              
+      
+                        <div class="usa-nav__submenu-item">
+        
+        
+                        <a href="/save" class="link" data-drupal-link-system-path="node/4827848">          <span>Tax Credits &amp; Rebates</span>
+                            </a>
+                
+                  </div>
+              
+              </li>
+      
+                        
+                    
+      
+                      <li>
+
+              
+      
+                        <div class="usa-nav__submenu-item">
+        
+        
+                        <a href="/energysaver/energy-saver" class="link" data-drupal-link-system-path="node/1174591">          <span>Energy Saving Tips </span>
+                            </a>
+                
+                  </div>
+              
+              </li>
+      
+                        
+                    
+      
+                      <li>
+
+              
+      
+                        <div class="usa-nav__submenu-item">
+        
+        
+                        <a href="/scep/wap/weatherization-assistance-program" class="link" data-drupal-link-system-path="node/4847136">          <span>Weatherization Assistance Program</span>
+                            </a>
+                
+                  </div>
+              
+              </li>
+      
+    
+          </ul>
+      
+
+      
+              </li>
+      
+                        
+                    
+      
+              <li class="usa-nav__primary-item">
+      
+                      <button type="button" class="usa-accordion__button primary-btn " aria-expanded="false" aria-controls="extended-mega-nav-section-6-1-6">
+          <span>Services &amp; Opportunities</span>
+        </button>
+
+      
+                
+        
+        
+  
+            <ul id="extended-mega-nav-section-6-1-6" class="usa-nav__submenu usa-megamenu usa-accordion" hidden="">
+        <li class="mobile-back-btn-secondary-wrapper">
+          <button type="button" class="mobile-back-btn-secondary">
+            <span>Services &amp; Opportunities</span>
+          </button>
+        </li>
+      
+    
+                        
+                    
+      
+                      <li>
+
+                  <div class="usa-nav__submenu-item">
+            <button type="button" class="usa-accordion__button " aria-expanded="false" aria-controls="basic-nav-section-6-2-1">
+              <span>Career Pathways</span>
+            </button>
+          </div>
+              
+      
+                
+        
+        
+  
+            <ul id="basic-nav-section-6-2-1" class="usa-nav__submenu" hidden="">
+
+        <li class="mobile-back-btn-tertiary-wrapper">
+          <button type="button" class="mobile-back-btn-tertiary">
+            <span>Career Pathways</span>
+          </button>
+        </li>
+
+          
+                        
+                    
+      
+              <li class="usa-nav__submenu-item">
+      
+      
+              
+        
+                        <a href="/internships-fellowships" class="link" data-drupal-link-system-path="node/4846914">          <span>Internships &amp; Fellowships</span>
+                            </a>
+                
+              
+              </li>
+      
+                        
+                    
+      
+              <li class="usa-nav__submenu-item">
+      
+      
+              
+        
+                        <a href="/apprenticeships-workforce-development" class="link" data-drupal-link-system-path="node/4846922">          <span>Apprenticeships &amp; Workforce Development</span>
+                            </a>
+                
+              
+              </li>
+      
+                        
+                    
+      
+              <li class="usa-nav__submenu-item">
+      
+      
+              
+        
+                        <a href="/work-us-department-energy" class="link" data-drupal-link-system-path="node/4847097">          <span>Work at DOE</span>
+                            </a>
+                
+              
+              </li>
+      
+    
+          </ul>
+
+                  
+
+      
+              </li>
+      
+    
+          </ul>
+      
+
+      
+              </li>
+      
+    
+          </ul>
+
+                  <div id="search-btn-container" class="usa-accordion search-btn-megamenu search-desktop">
+        <button type="button" id="megamenu-search-btn" class="search usa-accordion__button usa-current search-icon" aria-expanded="false" aria-controls="search-nav" aria-label="Search">
+        </button>
+
+        <div id="search-nav" class="usa-nav__submenu" hidden>
+          <section aria-label="Search form">
+            <div class="energy-global-search"></div>
+          </section>
+        </div>
+      </div>
+            
+
+
+
+
+
+            
+            
+            
+                  </div>
+              </nav>
+
+        </div>
+</header>
+
+
+  <div class="region-header-ful-width">
+      <div>
+    
+
+<div id="block-energy-gov-sitewidealert" class="block block-sitewide-alert-block">
+          
+        
+              <div data-sitewide-alert></div>
+              
+      </div>
+
+  </div>
+
+  </div>
+
+
+<main class="main-content usa-layout-docs usa-section node-type--page" id="main-content" role="main" tabindex="-1">
+
+    <div class="grid-container">
+
+      
+      <div class="grid-row grid-gap">
+        
+                  <div class="usa-layout-docs__main desktop:grid-col-fill">
+                                          
+
+<div id="block-main-breadcrumbs" class="block block-system block-system-breadcrumb-block">
+          
+        
+                  <nav class="usa-breadcrumb" role="navigation" aria-labelledby="system-breadcrumb">
+        <h2 id="system-breadcrumb" class="usa-sr-only">Breadcrumb</h2>
+        <ol class="usa-breadcrumb__list">
+                            <li class="usa-breadcrumb__list-item">
+                                            <a href="/" class="usa-breadcrumb__link"><span>Energy.gov</span></a>
+                                    </li>
+                            <li class="usa-breadcrumb__list-item">
+                                            <a href="/budget-performance" class="usa-breadcrumb__link"><span>Budget &amp; Performance</span></a>
+                                    </li>
+                    </ol>
+    </nav>
+
+              
+      </div>
+
+
+<div id="block-pagetitle" class="block block-core block-page-title-block">
+          
+        
+              
+  <section  class="hero hero--page">
+      <div class="hero__img"></div>
+      <div class="grid-container">
+          <div class="hero__title">
+        <h1>
+<span property="schema:name" class="field field--string field--title">Budget &amp; Performance</span>
+</h1>
+      </div>
+    
+        </div>
+  </section>
+
+
+              
+      </div>
+<div data-drupal-messages-fallback class="hidden"></div>
+<div id="block-main-page-content" class="block block-system block-system-main-block">
+          
+        
+        
+        
+      <article about="/budget-performance" typeof="schema:WebPage">
+
+  
+      <span property="schema:name" content="Budget &amp; Performance" class="hidden"></span>
+
+
+  
+  <div>
+    
+
+
+
+  
+
+<section class="layout blade-section--boxed" >
+
+    <div class="grid-container">
+      <div class="blade-color blade-section--white" style="">
+                                      <div  class="grid-row">
+                  <div  class="grid-col">
+      
+
+<div class="block block-layout-builder block-inline-blockbasic layout-breakout layout-float layout-right">
+        
+    
+          
+
+            <div class="field field--text_default field--body field field--name-body field--type-text-with-summary field--label-hidden field__item"><h3><a href="/cfo/listings/budget-justification-supporting-documents">More Budget Requests</a></h3><p>View the Department's Congressional budget justification and supporting documents since FY 2005.</p></div>
+      
+            </div>
+
+        
+  
+  
+<div class="block block-layout-builder block-inline-blockbasic block-title--budget">
+        
+  <div class="paragraph-reference__heading-subheading-wrapper"><div class="paragraph-reference-heading-wrapper paragraph-reference-heading-wrapper--"><h2 class="block block-layout-builder block-inline-blockbasic block-title--budget">
+        
+        Budget
+                  </h2></div></div>  
+          
+
+            <div class="field field--text_default field--body field field--name-body field--type-text-with-summary field--label-hidden field__item"><h3><a href="/cfo/articles/fy-2026-budget-justification" data-entity-type="node" data-entity-uuid="b606ce35-f60b-48d1-9329-6c1533c3a9af" data-entity-substitution="canonical" title="FY 2026 Budget Justification" aria-label="FY 2026 Budget Justification">FY 2026 Budget Request to Congress</a></h3><p>&nbsp;</p><h3><a href="/cfo/articles/fy-2025-budget-justification" aria-label="FY 2024 Budget Justification" data-entity-type="node" data-entity-uuid="ff45888f-0227-4822-950e-95c662067047" data-entity-substitution="canonical" title="FY 2025 Budget Justification">FY 2025 Budget Request to Congress</a></h3><ul><li><a href="/articles/statement-secretary-granholm-presidents-fiscal-year-2025-budget" data-entity-type="node" data-entity-uuid="fe02bfdc-e474-4806-822f-395f788dd0b4" data-entity-substitution="canonical" title="Statement by Secretary Granholm on the President's Fiscal Year 2025 Budget" aria-label="Statement by Secretary Granholm on the President's Fiscal Year 2025 Budget">FY 2025 Press Release</a></li><li><a href="https://cms.doe.gov/media/31909">FY 2025 Budget in Brief</a></li></ul><h3><a href="/cfo/articles/fy-2024-budget-justification" aria-label="FY 2024 Budget Justification" data-entity-type="node" data-entity-uuid="7f2fde24-4d0c-4b13-8e3f-d40e55e81833" data-entity-substitution="canonical" title="FY 2024 Budget Justification">FY 2024 Budget Request to Congress</a></h3><ul><li><a href="/articles/statement-energy-secretary-granholm-presidents-fiscal-year-2024-budget" aria-label="Statement by Energy Secretary Granholm on The President’s Fiscal Year 2024 Budget" data-entity-type="node" data-entity-uuid="ef77f5a0-a9d3-43d0-ad02-c95a8789d623" data-entity-substitution="canonical" title="Statement by Energy Secretary Granholm on The President’s Fiscal Year 2024 Budget">FY 2024 Press Release</a></li></ul><h3><a href="https://www.energy.gov/cfo/articles/fy-2023-budget-justification" aria-label="FY2023 Budget Justification">FY 2023 Budget Request to Congress</a></h3><ul><li><a href="https://www.energy.gov/sites/default/files/2022-03/doe-fy2023-budget-in-brief-v2.pdf" aria-label="Budget in Brief" target="_blank" class=" ext">FY 2023 Budget in Brief&nbsp;</a></li><li><a href="https://www.energy.gov/articles/statement-energy-secretary-granholm-president-bidens-doe-fiscal-year-2023-budget" aria-label="FY2023 Press Release">FY 2023 Press Release&nbsp;</a></li></ul><h3><a href="/cfo/articles/fy-2022-budget-justification" title="Read more about FY 2022&nbsp;Budget Request to Congress">FY 2022&nbsp;Budget Request to Congress</a></h3><ul><li><a href="/cfo/articles/fy-2022-budget-justification" title="Read more about FY 2022&nbsp;Budget in Brief">FY 2022&nbsp;Budget in Brief</a></li><li><a href="/articles/statement-energy-secretary-granholm-presidents-us-department-energy-fiscal-year-2022" title="Read more about FY 2022&nbsp;Press Release
+">FY 2022&nbsp;Press Release</a></li></ul><h3><a href="https://www.energy.gov/cfo/downloads/fy-2021-budget-justification" title="Read more about FY 2021&nbsp;Budget Request to Congress">FY 2021&nbsp;Budget Request to Congress</a></h3><ul><li><a href="https://www.energy.gov/cfo/downloads/fy-2021-budget-justification" title="Read more about FY 2021&nbsp;Budget in Brief">FY 2021&nbsp;Budget in Brief</a></li><li><a href="https://www.energy.gov/articles/president-trump-releases-fy-2021-budget-request" title="Read more about FY 2021&nbsp;Press Release
+">FY 2021&nbsp;Press Release</a></li><li><a href="https://www.energy.gov/cfo/downloads/fy-2021-budget-justification" title="Read more about FY 2021&nbsp;Fact Sheet">FY 2021&nbsp;Fact Sheet</a></li></ul><h3><a href="/cfo/articles/fy-2020-budget-justification" title="Read more about FY 2020 Budget Justification">FY 2020 Budget Justification</a></h3><ul><li><a href="/cfo/articles/fy-2020-budget-justification" title="Read more about FY 2019 Budget in Brief">FY 2020 Budget in Brief</a></li><li><a href="/articles/president-trump-releases-fy-2020-budget-request" title="Read more about FY&nbsp;2019 Press Release">FY&nbsp;2020 Press Release</a></li><li><a href="/articles/department-energy-fy-2020-budget-request-fact-sheet" title="Read more about FY&nbsp;2019 Fact Sheet">FY 2020 Fact Sheet</a></li></ul><h3><a href="/cfo/articles/fy-2019-budget-justification" title="Read more about FY 2019 Budget Request to Congress">FY 2019 Budget Request to Congress</a></h3><ul><li><a href="/cfo/articles/fy-2019-budget-justification" title="Read more about Budget in Brief">FY 2019 Budget in Brief</a></li><li><a href="/articles/president-trump-releases-fy-2019-budget-request" title="Read more about Press Release">FY 2019 Press Release</a></li><li><a href="/articles/fact-sheet-department-energy-fy-2019-budget-request" title="Read more about Fact Sheet">FY 2019 Fact Sheet</a></li></ul></div>
+      
+            </div>
+
+        
+  
+  
+<div class="block block-layout-builder block-inline-blockparagraph-reference block-title--strategic-plan">
+        
+  <div class="paragraph-reference__heading-subheading-wrapper"><div class="paragraph-reference-heading-wrapper paragraph-reference-heading-wrapper--listing"><h2 class="block block-layout-builder block-inline-blockparagraph-reference block-title--strategic-plan">
+        
+        Strategic Plan
+                  </h2></div></div>  
+          
+
+            <div class="field field--entity_reference_revisions_entity_view field--field_paragraph_reference field field--name-field-paragraph-reference field--type-entity-reference-revisions field--label-hidden field__item">
+      <style>
+      .collection-item .collection-item__image {
+        background: center/cover no-repeat url(https://www.energy.gov/sites/default/files/2025-04/white-fallback_0.png);
+      }
+    </style>
+    <ul class="collection collection--listing collection--img-text listing--static">
+                                                                                
+        
+                                  <li class="collection-item">
+          <div  class="collection-item-wrapper">
+      <div class="collection-item__image">
+                  <img src="https://www.energy.gov/sites/default/files/styles/listing_large/public/2018/01/f46/strategic-plan-2014-2018-cover.png?itok=pplcN4bq" alt="2014 - 2018 strategic plan">
+          
+    </div>
+  
+  
+  
+  <div class="collection-item__title title-sm">
+            <a class="collection-item__link" href="/articles/2014-2018-strategic-plan">
+      Strategic Plan 2014 - 2018
+    </a>
+      </div>
+
+  <div class="collection-item__summary">
+    Added April 2014
+  </div>
+
+  <div class="collection-item__button">
+    <a class="collection-item__link usa-button usa-button--outline" href="/articles/2014-2018-strategic-plan">
+                Learn More <span class="usa-sr-only">about Strategic Plan 2014 - 2018</span>
+        
+    </a>
+  </div>
+
+  <div class="collection-item__date p2">
+    
+  </div>
+</div>
+        </li>
+                                                                          
+        
+                                  <li class="collection-item">
+          <div  class="collection-item-wrapper">
+      <div class="collection-item__image">
+                  <img src="https://www.energy.gov/sites/default/files/styles/listing_large/public/2018/01/f46/may-2011-strategic-plan-cover.png?itok=lxVefA79" alt="Cover of the May 2011 Strategic Plan">
+          
+    </div>
+  
+  
+  
+  <div class="collection-item__title title-sm">
+            <a class="collection-item__link" href="/articles/2011-strategic-plan">
+      Strategic Plan - May 2011
+    </a>
+      </div>
+
+  <div class="collection-item__summary">
+    Updated February 2012
+  </div>
+
+  <div class="collection-item__button">
+    <a class="collection-item__link usa-button usa-button--outline" href="/articles/2011-strategic-plan">
+                Learn More <span class="usa-sr-only">about Strategic Plan - May 2011</span>
+        
+    </a>
+  </div>
+
+  <div class="collection-item__date p2">
+    
+  </div>
+</div>
+        </li>
+              </ul>
+    
+</div>
+      
+            </div>
+
+        
+  
+  
+<div class="block block-layout-builder block-inline-blockparagraph-reference block-title--agency-financial-report">
+        
+  <div class="paragraph-reference__heading-subheading-wrapper"><div class="paragraph-reference-heading-wrapper paragraph-reference-heading-wrapper--listing"><h2 class="block block-layout-builder block-inline-blockparagraph-reference block-title--agency-financial-report">
+        
+        Agency Financial Report
+                  </h2></div></div>  
+          
+
+            <div class="field field--entity_reference_revisions_entity_view field--field_paragraph_reference field field--name-field-paragraph-reference field--type-entity-reference-revisions field--label-hidden field__item">
+      <style>
+      .collection-item .collection-item__image {
+        background: center/cover no-repeat url(https://www.energy.gov/sites/default/files/2025-04/white-fallback_0.png);
+      }
+    </style>
+    <ul class="collection collection--listing collection--img-text listing--static">
+                                            <li class="collection-item">
+        <div  class="collection-item-wrapper">
+      <div class="collection-item__image">
+                <img src="https://www.energy.gov/sites/default/files/styles/listing_large/public/Resize_DOE_Seal_Color_Hi-Res_1.jpg?itok=E7hfPSIf" alt="DOE resize Hi Res logo">
+        
+    </div>
+  
+  
+  
+  <div class="collection-item__title title-sm">
+            <a class="collection-item__link" href="/cfo/articles/fy-2024-doe-agency-financial-report">
+      FY 2024 DOE Agency Financial Report
+    </a>
+      </div>
+
+  <div class="collection-item__summary">
+    Organized by three major sections: Management’s Discussion and Analysis, Financial Results, and Other Information
+  </div>
+
+  <div class="collection-item__button">
+    <a class="collection-item__link usa-button usa-button--outline" href="/cfo/articles/fy-2024-doe-agency-financial-report">
+              Learn More <span class="usa-sr-only">about FY 2024 DOE Agency Financial Report</span>
+      
+    </a>
+  </div>
+
+  <div class="collection-item__date p2">
+    
+  </div>
+</div>
+      </li>
+        </ul>
+    
+</div>
+      
+            </div>
+
+    </div>
+  
+        </div>
+            </div>
+    </div>
+  </section>
+
+
+
+
+
+
+
+
+  
+
+<section class="layout blade-section--boxed" >
+
+    <div class="grid-container">
+      <div class="blade-color blade-section--white" style="">
+                                      <div  class="grid-row">
+                  <div  class="grid-col">
+      
+
+<div class="block block-layout-builder block-inline-blockbasic layout-breakout layout-float layout-right">
+        
+    
+          
+
+            <div class="field field--text_default field--body field field--name-body field--type-text-with-summary field--label-hidden field__item"><h4><a aria-label="Read more about More Annual Performance Reports" href="/cfo/listings/annual-performance-reports" title="Read more about More Annual Performance Reports">More Annual Performance Reports</a></h4><p>These reports demonstrate&nbsp;the Department's accountability to ensure America’s security and prosperity by addressing its energy, environmental, and nuclear challenges through transformative science and technology solutions.</p></div>
+      
+            </div>
+
+    </div>
+  
+        </div>
+            </div>
+    </div>
+  </section>
+
+
+
+
+
+
+
+
+  
+
+<section class="layout blade-section--boxed" >
+
+    <div class="grid-container">
+      <div class="blade-color blade-section--white" style="">
+                                      <div  class="grid-row">
+                  <div  class="grid-col">
+      
+        
+  
+  
+<div class="block block-layout-builder block-inline-blockparagraph-reference block-title--performance">
+        
+  <div class="paragraph-reference__heading-subheading-wrapper"><div class="paragraph-reference-heading-wrapper paragraph-reference-heading-wrapper--listing"><h2 class="block block-layout-builder block-inline-blockparagraph-reference block-title--performance">
+        
+        Performance
+                  </h2></div></div>  
+          
+
+            <div class="field field--entity_reference_revisions_entity_view field--field_paragraph_reference field field--name-field-paragraph-reference field--type-entity-reference-revisions field--label-hidden field__item">
+      <style>
+      .collection-item .collection-item__image {
+        background: center/cover no-repeat url(https://www.energy.gov/sites/default/files/2025-04/white-fallback_0.png);
+      }
+    </style>
+    <ul class="collection collection--listing collection--img-text listing--static">
+                                            <li class="collection-item">
+        <div  class="collection-item-wrapper">
+      <div class="collection-item__image">
+                <img src="https://www.energy.gov/sites/default/files/styles/listing_large/public/Resize_DOE_Seal_Color_Hi-Res_1.jpg?itok=E7hfPSIf" alt="DOE resize Hi Res logo">
+        
+    </div>
+  
+  
+  
+  <div class="collection-item__title title-sm">
+            <a class="collection-item__link" href="/cfo/articles/fy-2018-doe-annual-performance-report-fy-2020-annual-performance-plan">
+      FY 2018 DOE Annual Performance Report / FY 2020 Annual Performance Plan
+    </a>
+      </div>
+
+  <div class="collection-item__summary">
+    Provides summary and detailed results associated with the department’s performance goals and associated annual targets that align to budget activities
+  </div>
+
+  <div class="collection-item__button">
+    <a class="collection-item__link usa-button usa-button--outline" href="/cfo/articles/fy-2018-doe-annual-performance-report-fy-2020-annual-performance-plan">
+              Learn More <span class="usa-sr-only">about FY 2018 DOE Annual Performance Report / FY 2020 Annual Performance Plan</span>
+      
+    </a>
+  </div>
+
+  <div class="collection-item__date p2">
+    
+  </div>
+</div>
+      </li>
+                            <li class="collection-item">
+        <div  class="collection-item-wrapper">
+      <div class="collection-item__image">
+      
+    </div>
+  
+  
+  
+  <div class="collection-item__title title-sm">
+            <a class="collection-item__link" href="/cfo/articles/fy-2017-doe-annual-performance-report-fy-2019-annual-performance-plan">
+      FY 2017 DOE Annual Performance Report / FY 2019 Annual Performance Plan
+    </a>
+      </div>
+
+  <div class="collection-item__summary">
+    Provides summary and detailed results associated with the Department’s performance goals and associated annual targets that align to budget activities
+  </div>
+
+  <div class="collection-item__button">
+    <a class="collection-item__link usa-button usa-button--outline" href="/cfo/articles/fy-2017-doe-annual-performance-report-fy-2019-annual-performance-plan">
+              Learn More <span class="usa-sr-only">about FY 2017 DOE Annual Performance Report / FY 2019 Annual Performance Plan</span>
+      
+    </a>
+  </div>
+
+  <div class="collection-item__date p2">
+    
+  </div>
+</div>
+      </li>
+                                          <li class="collection-item">
+        <div  class="collection-item-wrapper">
+      <div class="collection-item__image">
+                <img src="https://www.energy.gov/system/files/styles/listing_large/private/2017/12/f46/Resize_DOE_Seal_Color_Hi-Res.jpg?itok=3WiyGQJ2" alt="Seal of the U.S. Department of Energy">
+        
+    </div>
+  
+  
+  
+  <div class="collection-item__title title-sm">
+            <a class="collection-item__link" href="/articles/fy13-energy-department-federal-program-inventory">
+      FY13 Energy Department Federal Program Inventory
+    </a>
+      </div>
+
+  <div class="collection-item__summary">
+    Improve public understanding of Federal programs operations and linkages to budget, performance, and other information.
+  </div>
+
+  <div class="collection-item__button">
+    <a class="collection-item__link usa-button usa-button--outline" href="/articles/fy13-energy-department-federal-program-inventory">
+              Learn More <span class="usa-sr-only">about FY13 Energy Department Federal Program Inventory</span>
+      
+    </a>
+  </div>
+
+  <div class="collection-item__date p2">
+    
+  </div>
+</div>
+      </li>
+        </ul>
+    
+</div>
+      
+            </div>
+
+        
+  
+  
+<div class="block block-layout-builder block-inline-blockbasic block-title--program-evaluation">
+        
+  <div class="paragraph-reference__heading-subheading-wrapper"><div class="paragraph-reference-heading-wrapper paragraph-reference-heading-wrapper--"><h2 class="block block-layout-builder block-inline-blockbasic block-title--program-evaluation">
+        
+        Program Evaluation
+                  </h2></div></div>  
+          
+            </div>
+
+    </div>
+  
+        </div>
+            </div>
+    </div>
+  </section>
+
+
+
+
+
+
+
+
+  
+
+<section class="layout layout--33-66 blade-section--boxed" >
+
+    <div class="grid-container">
+      <div class="blade-color blade-section--white" style="">
+                                      <div  class="grid-row">
+            <div  class="tablet-lg:grid-col-4">
+    
+
+
+<div class="block block-layout-builder block-inline-blockmedia">
+            
+            
+                          
+                    
+      </div>
+
+
+
+<div class="block block-layout-builder block-inline-blockmedia">
+            
+            
+                              <img src="/sites/default/files/styles/full_article_width/public/2018/01/f46/gao-logo.jpg?itok=VqupPThD" alt="Government Accounting Office acronym (GAO)" typeof="foaf:Image" />
+
+                          
+                    
+      </div>
+
+  </div>
+  <div  class="tablet-lg:grid-col-8">
+    
+
+<div class="block block-layout-builder block-inline-blockbasic">
+        
+    
+          
+
+            <div class="field field--text_default field--body field field--name-body field--type-text-with-summary field--label-hidden field__item"><ul><li><a aria-label="Read more about Office of Energy Efficiency and Renewable Energy" href="http://www1.eere.energy.gov/ba/pba/program_evaluation/index.html" title="Read more about Office of Energy Efficiency and Renewable Energy">Office of Energy Efficiency and Renewable Energy</a></li><li><a aria-label="Read more about National Nuclear Security Administration" href="http://www.fas.org/irp/agency/dod/jason/" title="Read more about National Nuclear Security Administration">National Nuclear Security Administration</a></li><li><a aria-label="Read more about Office of Science, Committees of Visitors" href="http://science.energy.gov/sc-2/committees-of-visitors/" title="Read more about Office of Science, Committees of Visitors">Office of Science, Committees of Visitors</a></li><li><a aria-label="Read more about Inspector General" href="/ig/office-inspector-general-legacy" title="Read more about Inspector General">Inspector General</a></li><li><a aria-label="Read more about Annual Performance Reports" href="/cfo/listings/annual-performance-reports" title="Read more about Annual Performance Reports">Annual Performance Reports</a></li></ul><p><strong><a aria-label="Read more about GAO High-Risk Improvement Plans" href="https://www.gao.gov/highrisk/overview" title="Read more about GAO High-Risk Improvement Plans">GAO High-Risk Improvement Plans</a></strong></p><p>Plans address:</p><ul><li>conducting energy-related research and development and the management and protection of key assets—such as the Strategic Petroleum Reserve—that are vital to the nation’s energy and national security;</li><li>maintaining the safety, reliability, and physical and information security of the nation’s nuclear weapons stockpile in the absence of clear Department of Defense requirements and with an inefficient and outmoded nuclear weapons complex;</li><li>sustaining the relevance and effectiveness of DOE’s nonproliferation efforts;</li><li>addressing the continued and related problems of DOE’s contract administration and project management, especially for DOE’s large and complex projects; and</li><li>addressing the department’s human capital challenge of developing and retaining a skilled workforce capable of overseeing these projects.</li></ul></div>
+      
+            </div>
+
+  </div>
+        </div>
+            </div>
+    </div>
+  </section>
+
+
+
+
+
+
+
+
+  
+
+<section class="layout blade-section--boxed" >
+
+    <div class="grid-container">
+      <div class="blade-color blade-section--white" style="">
+                                      <div  class="grid-row">
+                  <div  class="grid-col">
+      
+
+<div class="block block-layout-builder block-inline-blockbasic">
+        
+    
+          
+
+            <div class="field field--text_default field--body field field--name-body field--type-text-with-summary field--label-hidden field__item"><h2>Other Budgets</h2><ul><li><a aria-label="Read more about Electricity Delivery and Energy Reliability" href="/oe/budget" title="Read more about Electricity Delivery and Energy Reliability">Electricity</a></li><li><a aria-label="Read more about Energy Efficiency and Renewable Energy" href="/eere/budget-office" title="Read more about Energy Efficiency and Renewable Energy">Energy Efficiency and Renewable Energy</a></li><li><a aria-label="Read more about Environmental Management" href="/em/budget-performance" title="Read more about Environmental Management">Environmental Management</a></li><li><a aria-label="Read more about Fossil Energy" href="/fecm/our-budget" title="Read more about Fossil Energy">Fossil Energy</a></li><li><a aria-label="Read more about National Nuclear Security Administration" href="https://nnsa.energy.gov/aboutus/budget" title="Read more about National Nuclear Security Administration">National Nuclear Security Administration</a></li><li><a aria-label="Read more about Nuclear Energy" href="/ne/our-budget" title="Read more about Nuclear Energy">Nuclear Energy</a></li><li><a aria-label="Read more about Science" href="https://science.energy.gov/budget/" title="Read more about Science">Science</a></li><li><a aria-label="Read more about Bonneville Power Administration" href="https://www.bpa.gov/Finance/FinancialInformation/Pages/Budget-Submission-to-Congress.aspx" title="Read more about Bonneville Power Administration">Bonneville Power Administration</a></li><li><a aria-label="Read more about Energy Information Administration" href="https://www.eia.gov/about/budget_performance.php" title="Read more about Energy Information Administration">Energy Information Administration</a></li></ul></div>
+      
+            </div>
+
+    </div>
+  
+        </div>
+            </div>
+    </div>
+  </section>
+
+
+
+
+
+<section class="blade-section--boxed layout layout--onecol">
+
+    <div >
+      
+    </div>
+  </section>
+
+  </div>
+
+</article>
+
+              
+      </div>
+
+
+                      </div>        
+              </div>
+    </div>
+  </main>
+  
+<footer class="usa-footer usa-footer--medium" role="contentinfo">
+      <div class="usa-footer__primary-section">
+      <div class="usa-footer__primary-content grid-container">
+        <div class="logo-tagline">
+          <img src="/themes/custom/energy_gov/svg/footer-logo.svg" alt="Department of Energy" />
+                      <p class="text-bold">
+              Committed to Restoring America’s Energy Dominance.
+            </p>
+                  </div>
+        <div class="footer-address">
+          
+        </div>
+        <div class="footer-social-bar">
+          <p class="footer-heading">Follow Us</p>
+                      <a href="https://www.facebook.com/energy">
+              <i class="fa-brands fa-facebook"></i>
+              <span class="usa-sr-only">Link to Facebook</span>
+            </a>
+                                      <a href="https://www.instagram.com/energy">
+                <i class="fa-brands fa-instagram"></i>
+                <span class="usa-sr-only">Link to Instagram</span>
+              </a>
+                                      <a href="https://www.linkedin.com/company/u-s--department-of-energy">
+                <i class="fa-brands fa-linkedin"></i>
+                <span class="usa-sr-only">Link to Linkedin</span>
+              </a>
+                                      <a href="https://www.youtube.com/user/USdepartmentofenergy">
+                <i class="fa-brands fa-youtube"></i>
+                <span class="usa-sr-only">Link to Youtube</span>
+              </a>
+                                      <a href="https://twitter.com/energy">
+                <i class="fa-brands fa-x-twitter"></i>
+                <span class="usa-sr-only">Link to X</span>
+              </a>
+                                                  <a href="https://www.flickr.com/photos/departmentofenergy/">
+                <i class="fa-brands fa-flickr"></i>
+                <span class="usa-sr-only">Link to Flickr</span>
+              </a>
+                    </div>
+        <div class="footer-newsletter">
+
+        
+        </div>
+        <div class="footer-agency">
+          <nav class="usa-footer__nav" aria-label="Our Agency">
+            
+      <ul class="menu menu--our-agency nav">
+                              <li class="expanded dropdown first last">
+                                                                                    <span class="expanded dropdown first last dropdown-toggle" data-toggle="dropdown">Quick Links <span class="caret"></span></span>
+                            <ul class="dropdown-menu">
+                              <li class="first">
+                                                  <a href="/our-leadership-offices" class="first" data-drupal-link-system-path="node/4847008">Leadership &amp; Offices</a>
+                  </li>
+                              <li>
+                                                  <a href="/mission" data-drupal-link-system-path="node/2713865">Mission</a>
+                  </li>
+                              <li>
+                                                  <a href="/contact-us" data-drupal-link-system-path="node/268177">Contact Us</a>
+                  </li>
+                              <li class="last">
+                                                  <a href="/work-us-department-energy" class="last" data-drupal-link-system-path="node/4847097">Careers</a>
+                  </li>
+          </ul>
+  
+                  </li>
+          </ul>
+  
+
+          </nav>
+        </div>
+        <div class="footer-resources">
+          <nav class="usa-footer__nav" aria-label="Our Resources">
+            
+      <ul class="menu menu--our-resources nav">
+                              <li class="expanded dropdown active active-trail first last">
+                                                                                    <span class="expanded dropdown active active-trail first last dropdown-toggle active-trail" data-toggle="dropdown">Resources <span class="caret"></span></span>
+                            <ul class="dropdown-menu">
+                              <li class="active active-trail first">
+                                                  <a href="/budget-performance" class="active active-trail first active-trail is-active" data-drupal-link-system-path="node/268189" aria-current="page">Budget &amp; Performance </a>
+                  </li>
+                              <li>
+                                                  <a href="https://www.directives.doe.gov/">Directives, Delegations, &amp; Requirements </a>
+                  </li>
+                              <li>
+                                                  <a href="/gc/freedom-information-act" data-drupal-link-system-path="node/3049">Freedom of Information Act (FOIA)</a>
+                  </li>
+                              <li>
+                                                  <a href="/ig/office-inspector-general" data-drupal-link-system-path="node/4847015">Inspector General </a>
+                  </li>
+                              <li class="last">
+                                                  <a href="/cio/privacy-program" class="last" data-drupal-link-system-path="node/2603217">Privacy Program</a>
+                  </li>
+          </ul>
+  
+                  </li>
+          </ul>
+  
+
+          </nav>
+        </div>
+        <div class="footer-policies">
+          <nav class="usa-footer__nav" aria-label="Federal Policies and Information">
+            
+      <ul class="menu menu--federal-policies nav">
+                              <li class="expanded dropdown first last">
+                                                                                    <span class="expanded dropdown first last dropdown-toggle" data-toggle="dropdown">Federal Government <span class="caret"></span></span>
+                            <ul class="dropdown-menu">
+                              <li class="first">
+                                                  <a href="https://www.usa.gov/" class="first">USA.gov</a>
+                  </li>
+                              <li class="last">
+                                                  <a href="https://www.whitehouse.gov/" class="last">The White House </a>
+                  </li>
+          </ul>
+  
+                  </li>
+          </ul>
+  
+
+          </nav>
+        </div>
+      </div>
+    </div>
+        <div class="usa-footer__secondary-section">
+      <div class="usa-footer__secondary-content grid-container">
+        <nav class="usa-footer__nav" aria-label="Utility Links">
+          
+      <ul class="menu menu--menu-footer-utility nav">
+                              <li class="first">
+                                                  <a href="/open-government" class="first" data-drupal-link-system-path="node/268195">Open Gov</a>
+                  </li>
+                              <li>
+                                                  <a href="/cio/accessibility-standard-statement" data-drupal-link-system-path="node/723576">Accessibility</a>
+                  </li>
+                              <li>
+                                                  <a href="/about-us/web-policies/privacy" data-drupal-link-system-path="node/268159">Privacy</a>
+                  </li>
+                              <li>
+                                                  <a href="/cio/department-energy-information-quality-guidelines" data-drupal-link-system-path="node/289213">Information Quality</a>
+                  </li>
+                              <li>
+                                                  <a href="/web-policies" data-drupal-link-system-path="node/268153">Web Policies</a>
+                  </li>
+                              <li>
+                                                  <a href="/cio/articles/vulnerability-disclosure-policy" data-drupal-link-system-path="node/4802628">Vulnerability Disclosure Program</a>
+                  </li>
+                              <li class="last">
+                                                  <a href="/whistleblower-protection-and-nondisclosure-agreements" class="last" data-drupal-link-system-path="node/631441">Whistleblower Protection</a>
+                  </li>
+          </ul>
+  
+
+        </nav>
+      </div>
+    </div>
+  </footer>
+
+  </div>
+
+<script>window.dataLayer = window.dataLayer || []; window.dataLayer.push({"drupalLanguage":"en","drupalCountry":null,"siteName":"Department of Energy","entityCreated":"1312133282","entityLangcode":"en","entityStatus":"1","entityUid":"25","entityUuid":"bf935193-7fdd-48f6-9013-39241da324cb","entityVid":"1490943","entityName":"meckes","entityType":"node","entityBundle":"page","entityId":"268189","entityTitle":"Budget \u0026 Performance","userUid":0,"primaryOffice":{"id":"31","label":"Energy.gov"}});</script>
+
+<script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/268189","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"dataLayer":{"defaultLang":"en","languages":{"en":{"id":"en","name":"English","direction":"ltr","weight":0},"es":{"id":"es","name":"Spanish","direction":"ltr","weight":1}}},"external_link_popup":{"whitelist":"","width":"85%","popups":[{"id":"default","name":"Default","status":true,"weight":10,"close":true,"title":"You Are Now Leaving This Site","body":"\u003Cp\u003EWould you like to leave this site?\u003C\/p\u003E\n","labelyes":"OK","labelno":"Cancel","domains":"*","target":"_self"}]},"google_analytics":{"account":"G-GS1KB7R8DY","trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"data":{"extlink":{"extTarget":true,"extTargetNoOverride":false,"extNofollow":true,"extNoreferrer":true,"extFollowNoOverride":false,"extClass":"ext","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":"\\.gov","extInclude":"isExternalResource","extCssExclude":"footer, .social-bar-utility, .media-type-image, .energy-social-links","extCssExplicit":"","extAlert":true,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"0","mailtoLabel":"(link sends email)","extUseFontAwesome":false,"extIconPlacement":"append","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","whitelistedDomains":[]}},"energyAnalytics":{"accounts":["UA-17192165-1"],"pageTitle":"Budget \u0026 Performance","settings":[["_setAccount","UA-17192165-1"],["_trackPageview"],["_setDomainName",".energy.gov"]]},"searchSettings":{"bestBetsHeadingText":"Recommended by DOE:","defaultThumbnailUrl":"https:\/\/www.energy.gov\/sites\/default\/files\/2025-04\/white-fallback_0.png","enableTopicsAutocomplete":true,"events":{"showUpcomingEventsSection":true,"viewAllEventsLinkTitle":"View All Events","viewEventDetailsLinkTitle":"View Event Details"},"isSearchEventsPage":false,"searchHeaderMessage":{"generic":"What are you looking for?","events":"What event are you looking for?"},"popularSearchTerm1":"Artificial Intelligence","popularSearchTerm2":"LNG","popularSearchTerm3":"Geothermal","popularSearchTerm4":"Nuclear Energy","popularSearchTerm5":"Hydropower","popularSearchTerm6":"","facetsFooterMessage":"\u003Cp\u003E\u003Cstrong\u003ELooking for compliance docs?\u003C\/strong\u003E\u003Cbr\u003E\u003Ca href=\u0022#\u0022\u003EVisit our Compliance Document search page\u003C\/a\u003E\u003C\/p\u003E","noResultsFoundMessage":"No matches were found using the filters you have selected.","suggestedTopicsMessage":"Suggested Topics based on Your Search","spellcheck":{"labelPrefix":"Did you mean: ","labelSuffix":"?"},"timeZone":"America\/New_York","topics":{"topicsCountForSearchPage":"3"}},"sitewideAlert":{"refreshInterval":150000,"automaticRefresh":true},"user":{"uid":0,"permissionsHash":"6371cb24720e4127bf4bd4e0a7ec2cc53b679c570f0c5c2565db5a85a1f24fc2"}}</script>
+<script src="/sites/default/files/js/js_Benfi8_Vly28bFWS_8Oa9A5Gh9sRbJgGW20iNFMYYWU.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=energy_gov&amp;include=eJxtjVEKAjEMRC-0mB_vU2IbumFDWpJY7e0t6CKInzPvMVMwUHCSwY12HNzMN1KyOlNuGqQBn0jPENbjpLUNQHeK5b8JFLt3lMuPiIoyg7NDba0KfYs_Bl4TjXWawjAfrPV0nNDyDtj75hz04LKGhCyAleMFuINOzQ"></script>
+
+</body>
+</html>

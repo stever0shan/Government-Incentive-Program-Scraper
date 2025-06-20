@@ -1,0 +1,17 @@
+site: https://www.irs.gov/credits-deductions/home-energy-tax-credits
+program_type: Tax Credit
+selectors:
+  title: h1
+  funding: null
+  deadline: null
+  eligibility: null
+deep_links:
+  selector: a[href*='credits-deductions']
+  attribute: href
+auto_pdf_detection: true
+pdf_min_size: 10240
+pdf_max_size: 10485760
+exclude_pdf_keywords:
+- newsletter
+- map
+- brochure
