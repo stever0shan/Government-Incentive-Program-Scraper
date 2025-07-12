@@ -22,9 +22,9 @@ def main():
 
             if scraper.results:
                 all_results.extend(scraper.results)
-                print(f"✅ Saved: {output_csv} ({len(scraper.results)} entries)\n")
+                print(f" Saved: {output_csv} ({len(scraper.results)} entries)\n")
             else:
-                print(f"⚠️ No data found in: {filename}\n")
+                print(f" No data found in: {filename}\n")
 
     if all_results:
         df = pd.DataFrame(all_results)
@@ -32,7 +32,7 @@ def main():
         df.to_csv(MERGED_FILE, index=False, encoding="utf-8-sig")
         print(f"\n Merged output saved: {MERGED_FILE}")
     else:
-        print("❌ No data extracted from any config.")
+        print(" No data extracted from any config.")
 
 if __name__ == "__main__":
     main()
